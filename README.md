@@ -1,6 +1,6 @@
 # shopping_list_app
 
-Simple Quiz application with HTTP and FireBase query support
+Simple Quiz application with FireBase and HTTP query support
 
 ![image](https://github.com/0plek/shopping_list/assets/144955901/57a254f9-b12e-4968-a8dc-d9bbdb590e20)
 
